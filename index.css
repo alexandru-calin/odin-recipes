@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0px 10px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  border-radius: 5px;
+}
